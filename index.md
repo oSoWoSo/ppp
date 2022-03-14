@@ -77,7 +77,7 @@ USB Type-C, USB Host, DisplayPort Alternate Mode output, 15W 5V 3A Quick Charge,
 
 #### [reddit](https://www.reddit.com/r/PINE64official)
 
-### [ppp software releases](https://wiki.pine64.org/wiki/PinePhone_Pro_Software_Releases)
+#### [ppp software releases](https://wiki.pine64.org/wiki/PinePhone_Pro_Software_Releases)
 
 # OSes
 
